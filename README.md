@@ -3,4 +3,4 @@ This repository holds the various PPTs created by me and other seniors (namely G
 
 Image sources : Google, Machine Learning course of Andrew NG,Machine Learning course by Bob Trenwith. 
 
-Happy Learning!
+Happy Learning :)
